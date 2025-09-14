@@ -14,9 +14,4 @@ else:
 print(f"CONGRATULATIONS FOR {achievement.upper()}!")
 
 
-
-
-
-A
-
   
