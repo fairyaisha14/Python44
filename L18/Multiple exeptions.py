@@ -8,7 +8,7 @@ except ZeroDivisionError:
     print("Division by zero is error")
 
 except SyntaxError:
-    print("Comma is missin. Enter numbers separated by a comma like this 1,2")
+    print("Comma is missing. Enter numbers separated by a comma like this 1,2")
 
 except:
     print("Wrong Input")
