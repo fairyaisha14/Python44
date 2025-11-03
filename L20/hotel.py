@@ -16,6 +16,6 @@ def plane_rice_cost(city):
 def rental_car_cost(days):
     if days>=7 :
         return 40*days - 50   
-     if days>=7 :
+    if days >= 7 :
         return 40*days - 50     
     
