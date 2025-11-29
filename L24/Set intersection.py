@@ -1,3 +1,4 @@
+#Write a program to find the intersection of two sets. Set1 = {green, blue} Set2 = {blue, yellow}
 setx = {"green", "blue"}
 sety = {"blue", "yellow"}
 print("Original set elements:")
